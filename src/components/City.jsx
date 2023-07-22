@@ -28,7 +28,7 @@ function City() {
     <>
       <h1>City {id}</h1>
       <p>
-        Postion: {lat}, {lng}
+        Position: {lat}, {lng}
       </p>
     </>
   );
