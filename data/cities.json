@@ -1,42 +1,6 @@
 {
   "cities": [
     {
-      "cityName": "Lisbon",
-      "country": "Portugal",
-      "emoji": "🇵🇹",
-      "date": "2027-10-31T15:59:59.138Z",
-      "notes": "My favorite city so far!",
-      "position": {
-        "lat": 38.727881642324164,
-        "lng": -9.140900099907554
-      },
-      "id": 73930385
-    },
-    {
-      "cityName": "Madrid",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2027-07-15T08:22:53.976Z",
-      "notes": "",
-      "position": {
-        "lat": 40.46635901755316,
-        "lng": -3.7133789062500004
-      },
-      "id": 17806751
-    },
-    {
-      "cityName": "Berlin",
-      "country": "Germany",
-      "emoji": "🇩🇪",
-      "date": "2027-02-12T09:24:11.863Z",
-      "notes": "Amazing 😃",
-      "position": {
-        "lat": 52.53586782505711,
-        "lng": 13.376933665713324
-      },
-      "id": 98443197
-    },
-    {
       "cityName": "Zagreb",
       "country": "Croatia",
       "emoji": "🇭🇷",
@@ -49,16 +13,28 @@
       "id": 98443203
     },
     {
-      "cityName": "Daneborg",
-      "country": "Greenland",
-      "emoji": "🇬🇱",
-      "date": "2023-08-02T19:35:46.691Z",
-      "notes": "borgandeda\n",
+      "cityName": "Cartagena",
+      "country": "Colombia",
+      "emoji": "🇨🇴",
+      "date": "2023-08-05T11:57:55.075Z",
+      "notes": "",
       "position": {
-        "lat": "74.4964131169431",
-        "lng": "-42.01171875000001"
+        "lat": "10.260870794748941",
+        "lng": "-75.60791015625001"
       },
       "id": 98443204
+    },
+    {
+      "cityName": "Vela Luka",
+      "country": "Croatia",
+      "emoji": "🇭🇷",
+      "date": "2023-08-27T11:58:17.000Z",
+      "notes": "delicije",
+      "position": {
+        "lat": "42.98179538408935",
+        "lng": "16.64909362792969"
+      },
+      "id": 98443205
     }
   ]
 }
